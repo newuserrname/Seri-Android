@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable jennie
+drawable jennie_a
+drawable jennie_b
+drawable jennie_c
+drawable jisoo
+drawable jisoo_a
+drawable jisoo_b
+drawable jisoo_c
+drawable lalisa
+drawable lalisa_a
+drawable lalisa_b
+drawable lalisa_c
+drawable roses
+drawable roses_a
+drawable roses_b
+drawable roses_c
+id img_user
+id rcv_user
+id txt_name
+layout activity_main
+layout item_user
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Recyclerview
